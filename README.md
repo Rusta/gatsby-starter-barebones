@@ -14,4 +14,4 @@ There is a clone of this repository at https://github.com/Rusta/gatsby-starter-b
 - Bundle size with React: 251KB
 - Bundle size with Preact: 131KB
 
-Feel free to check it out
+Feel free to [check it out](https://github.com/Rusta/gatsby-starter-barebones-preact)
