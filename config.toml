@@ -1,0 +1,4 @@
+siteTitle="Barebones"
+linkPrefix = "/gatsby-starter-barebones"
+
+noProductionJavascript = false
